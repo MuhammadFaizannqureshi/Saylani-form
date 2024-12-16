@@ -1,0 +1,42 @@
+/* h1{
+    background-color: aqua;
+    
+}
+
+div.container{
+    display: flex;
+    background-color: black;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: 20px;
+}
+div.Box1{
+    background-color: blue;
+    width: 200px;
+    height: 20px;
+    /* order: 3; */
+    /* flex-shrink: ; */
+    
+/* } */
+/* div.Box2{ */
+    /* background-color: yellow; */
+    /* width: 200px; */
+    /* height: 20px; */
+    /* order: 1; */
+    /* flex-shrink: 0; */
+    /* flex-grow: ; */
+/* } */
+/* div.Box3{ */
+    /* background-color: crimson; */
+    /* width: 200px; */
+    /* height: 20px; */
+    /* order: 2; */
+    /* flex-shrink: 0; */
+
+/* } */
+ div.parent{
+    background-color: red;
+    display: flex;
+ }

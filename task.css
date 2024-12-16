@@ -1,0 +1,228 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 250vh;
+}
+div.main{
+    background-color: lightgray;
+    height: 32vh;
+}
+
+div.first{
+    text-align: center;
+    padding-top: 10px;
+}
+div.img{
+    display: flex;
+    /* background-color: lightgray;
+    color: lightgrey; */
+    gap: 14px;
+
+    /* border-image-outset: 20px; */
+
+}
+img.ibk{
+    background-color: lightgrey; /* Change the background color */
+    border-radius: 50%; /* Ensures circular shape */
+    display: inline-block;
+
+}
+div.second{
+    display: flex;
+    justify-content: center;
+    background-color: lightgrey;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+button.btn{
+    border-radius: 20px;
+    background-color:none;
+    width: 115px;
+    height: 30px;
+    /* border: none; */
+    border-color:#0705f7;
+}
+p.text{
+    text-align: center;
+
+}
+div.navbtn{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    
+
+}
+div.rbtn button{
+    
+    color: rgb(126, 190, 31);
+    border: none;
+    gap: 10px;
+    background-color: white;
+}
+div.Form{
+    display: flex;
+justify-content: center;
+    /* gap: 250px; */
+}
+div.row1{
+    display: flex;
+    /* padding-left: 0px; */
+    gap: 150px;
+    /* border-color: blue  ; */
+}
+div.row1a  select{
+    width: 430px;
+    height: 44px;
+    /* border-color: blue  ; */
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.nm{
+    display: flex;
+    justify-content: center;
+        /* gap: 250px; */
+}
+div.nm{
+    display: flex;
+    /* padding-left: 0px; */
+    gap: 150px;
+    /* border-color: blue  ; */
+    /* justify-content: center; */
+}
+div.nm1 input{
+    width: 430px;
+    height: 44px;
+    /* border-color: blue  ; */
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+    
+}
+div.em{
+
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    
+    
+}
+div.em1{
+gap: 150px;
+justify-content: center;
+    
+
+}
+div.em1 input{
+    width: 430px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.cnic{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+
+}
+div.cnic1{
+    /* gap: 150px; */
+    justify-content: center;
+    
+}
+div.cnic1 input{
+    width: 430px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.dob{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+}
+div.dob1 input{
+    width: 430px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.dob2 select{
+    width: 430px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+
+div.ad{
+display: flex;
+justify-content: center;
+}
+
+div.ad1 input{
+    
+    width: 1010px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.lq
+{
+    display: flex;
+    justify-content: center;
+}
+div.lq1 select{
+    width: 1010px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+}
+div.laptop
+{
+    display: flex;
+    justify-content: center;
+}
+div.laptop1 select{
+    width: 1010px;
+    height: 44px;
+    border: 1px solid rgb(155, 214, 67) ;
+    border-radius: 5px;
+    
+}
+div.pi{
+    display: flex;
+    padding-left: 127px;
+}
+div.pi1 button{
+    width: 100px;
+    height: 100px;
+    border-radius: 8px;
+    border:1px dashed;
+}
+div.pit{
+    padding-top: 25px;
+    padding-left: 20px;
+    font-size: 14px;
+}
+div.li{
+    display: flex;
+    padding-left: 135px;
+}
+div.sb{
+    display: flex;
+    justify-content: center;
+}
+div.sb1 button{
+    background-color: blue;
+    color: white;
+    width: 1000px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+span.span1{
+    color: #0705f7;
+}
